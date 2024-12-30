@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ujjval sahu
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ujjval Sahu.
+- 👀 I’m interested to learn Programming.
+- 🌱 I’m currently learning C Language.
+
 
 <!---
 Ujjval2025/Ujjval2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
